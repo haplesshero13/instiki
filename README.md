@@ -1,4 +1,3 @@
-
 # Instiki
 
 Instiki is a wiki clone so pretty and easy to set up, you'll wonder if it’s really a wiki. Runs on Rails and focuses on portability and stability. Supports file uploads, PDF export, RSS, multiple users and password protection. Some use Instiki as a CMS (Content Management System) because of its ability to export static pages.
@@ -75,8 +74,8 @@ You're now running a perfectly suitable wiki on port 2500 that'll present you wi
 * Reference tracker: Which other pages are pointing to the current?
 * Five markup choices:
   * [Markdown](http://daringfireball.net/projects/markdown/syntax)-based choices:
-    * Markdown+itex2MML (the default; requires itex2MML) 
-    * Markdown+BlahTeX/PNG (requires blahtex and a working TeX installation)
+     * Markdown+itex2MML (the default; requires itex2MML) 
+     * Markdown+BlahTeX/PNG (requires blahtex and a working TeX installation)
   * Markdown
   * [Textile](http://www.textism.com/tools/textile)
   * [RDoc](http://rdoc.sourceforge.net/doc)
