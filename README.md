@@ -76,7 +76,7 @@ You're now running a perfectly suitable wiki on port 2500 that'll present you wi
   * [Markdown](http://daringfireball.net/projects/markdown/syntax)-based choices:
      * Markdown+itex2MML (the default; requires itex2MML) 
      * Markdown+BlahTeX/PNG (requires blahtex and a working TeX installation)
-  * Markdown
+     * Markdown
   * [Textile](http://www.textism.com/tools/textile)
   * [RDoc](http://rdoc.sourceforge.net/doc)
 * Support for Math (using [itex syntax](http://golem.ph.utexas.edu/~distler/blog/itex2MMLcommands.html)) 
